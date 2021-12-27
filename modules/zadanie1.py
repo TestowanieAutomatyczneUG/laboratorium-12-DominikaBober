@@ -11,12 +11,4 @@ class RandomUser:
         self.user_data = new_user_data
 
     def get_random_user(self):
-        
-        http_response: requests.Response = requests.get("https://randomuser.me/api/?nat=us&randomapi")
-
-        if http_response.status_code == 200:
-            random_user_data = json.loads(http_response.text)
-            return random_user_data
-        else:
-            print(http_response.text, http_response.status_code)
-            return False
+        pass
