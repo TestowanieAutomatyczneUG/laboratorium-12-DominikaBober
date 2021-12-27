@@ -1,0 +1,31 @@
+user1 = {'results': [{
+    'gender': 'male', 
+    'name': {'title': 'Mr', 'first': 'Jared', 'last': 'Bates'}, 
+    'location': {
+        'street': {'number': 5567, 'name': 'Rolling Green Rd'}, 
+        'city': 'Allentown', 
+        'state': 'Oklahoma', 
+        'country': 'United States', 
+        'postcode': 23478, 
+        'coordinates': {'latitude': '-33.4561', 'longitude': '-49.3057'}, 
+        'timezone': {'offset': '+3:30', 'description': 'Tehran'}}, 
+    'email': 'jared.bates@example.com', 
+    'login': 
+        {'uuid': '7098b0b2-f693-47a8-9c1c-a86c644431b9',
+         'username': 'bigrabbit672', 
+         'password': 'sahara', 
+         'salt': '0zLoBNFI', 
+         'md5': '536bb93d0cfa3ed4cfe464d74a05377b', 
+         'sha1': 'f6e2bc94da0ba0276616e12c94c10d7b9234bf79', 
+         'sha256': '189c5cc5d5eecf3bedfaf796ec64f2e480d8513a67061d4de53fbe512b4689fe'}, 
+    'dob': {'date': '1973-04-15T03:58:34.683Z', 'age': 48}, 
+    'registered': {'date': '2009-04-05T21:00:15.549Z', 'age': 12}, 
+    'phone': '(422)-321-7596', 
+    'cell': '(746)-399-0207', 
+    'id': {'name': 'SSN', 'value': '390-17-4799'}, 
+    'picture': {'large': 'https://randomuser.me/api/portraits/men/79.jpg', 
+        'medium': 'https://randomuser.me/api/portraits/med/men/79.jpg', 
+        'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/79.jpg'}, 
+    'nat': 'US'}], 
+'info': {'seed': '2e0cf2f8014fa491', 'results': 1, 'page': 1, 'version': '1.3'}}
+
